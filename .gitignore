@@ -221,3 +221,43 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Microdados INEP
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/manifest.json
+
+# Dados processados ainda não autorizados
+*.parquet
+*.zip
+*.part
+
+# Ambiente virtual
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Microdados e arquivos temporarios
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/manifest.json
+*.zip
+*.part
+*.parquet
+*.parquet.tmp
+
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Projeto INEP
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/manifest.json
+*.zip
+*.part
+*.parquet
+.venv/
+__pycache__/
+.ipynb_checkpoints/

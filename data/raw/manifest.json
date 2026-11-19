@@ -1,0 +1,74 @@
+{
+  "2019": {
+    "year": 2019,
+    "file": "microdados_censo_da_educacao_superior_2019.zip",
+    "url": "https://download.inep.gov.br/microdados/microdados_censo_da_educacao_superior_2019.zip",
+    "size_bytes": 16905590,
+    "sha256": "97a4169d006474f3337fd42ee6479f10033dd286deda4e91c3576fd3d4130aee",
+    "registered_at_utc": "2026-11-19T18:17:46.602627+00:00",
+    "acquisition_method": "manual_browser_upload_reported_by_user",
+    "downloaded_at_utc": null,
+    "http_headers": null,
+    "zip_crc_verified": true
+  },
+  "2020": {
+    "year": 2020,
+    "file": "microdados_censo_da_educacao_superior_2020.zip",
+    "url": "https://download.inep.gov.br/microdados/microdados_censo_da_educacao_superior_2020.zip",
+    "size_bytes": 22263418,
+    "sha256": "3d0d9fd2549b0d78785f71cdd10a0dfa25ee54d29f7b7b8c2caf923d6f6c8449",
+    "registered_at_utc": "2026-11-19T18:17:49.702486+00:00",
+    "acquisition_method": "manual_browser_upload_reported_by_user",
+    "downloaded_at_utc": null,
+    "http_headers": null,
+    "zip_crc_verified": true
+  },
+  "2021": {
+    "year": 2021,
+    "file": "microdados_censo_da_educacao_superior_2021.zip",
+    "url": "https://download.inep.gov.br/microdados/microdados_censo_da_educacao_superior_2021.zip",
+    "size_bytes": 26554655,
+    "sha256": "75e9c5dfd9ab205cd59f113098e5e225dabd915819afa509be7cc20b763ce06c",
+    "registered_at_utc": "2026-11-19T18:17:52.913329+00:00",
+    "acquisition_method": "manual_browser_upload_reported_by_user",
+    "downloaded_at_utc": null,
+    "http_headers": null,
+    "zip_crc_verified": true
+  },
+  "2022": {
+    "year": 2022,
+    "file": "microdados_censo_da_educacao_superior_2022.zip",
+    "url": "https://download.inep.gov.br/microdados/microdados_censo_da_educacao_superior_2022.zip",
+    "size_bytes": 33161794,
+    "sha256": "f30830c26956a3575c3786634e51c9a643faa3907f5f895c8c326386ff1df6e8",
+    "registered_at_utc": "2026-11-19T18:17:57.049289+00:00",
+    "acquisition_method": "manual_browser_upload_reported_by_user",
+    "downloaded_at_utc": null,
+    "http_headers": null,
+    "zip_crc_verified": true
+  },
+  "2023": {
+    "year": 2023,
+    "file": "microdados_censo_da_educacao_superior_2023.zip",
+    "url": "https://download.inep.gov.br/microdados/microdados_censo_da_educacao_superior_2023.zip",
+    "size_bytes": 38411202,
+    "sha256": "a7a3b905777a7ddbaf287c242bf6ed55c056f17350d042a4199fb1e10cf3b2c5",
+    "registered_at_utc": "2026-11-19T18:18:01.858268+00:00",
+    "acquisition_method": "manual_browser_upload_reported_by_user",
+    "downloaded_at_utc": null,
+    "http_headers": null,
+    "zip_crc_verified": true
+  },
+  "2024": {
+    "year": 2024,
+    "file": "microdados_censo_da_educacao_superior_2024.zip",
+    "url": "https://download.inep.gov.br/microdados/microdados_censo_da_educacao_superior_2024.zip",
+    "size_bytes": 456807449,
+    "sha256": "e8e11899efe2b348a7e80e3a3c610c3bdd1ced3362ccdf2c9f9abe9bf8988386",
+    "registered_at_utc": "2026-11-19T18:18:09.602693+00:00",
+    "acquisition_method": "manual_browser_upload_reported_by_user",
+    "downloaded_at_utc": null,
+    "http_headers": null,
+    "zip_crc_verified": true
+  }
+}
