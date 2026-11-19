@@ -1,0 +1,79 @@
+{
+  "origem": "INEP",
+  "fonte_manifest": {
+    "path": "data/raw/manifest.json",
+    "sha256": "e7411a740fc5e2db70ff77903343fca5ce339cc6c60e3133edad4bc2c7dbd4d5"
+  },
+  "gerado_em_utc": "2026-11-19T18:18:10.645425+00:00",
+  "regra_agregacao": "Graduação (1), dimensões 1 e 2 (oferta no Brasil). Dimensão 3 sem métricas de matrícula/ingresso na auditoria; dimensão 4 excluída pelo recorte geográfico. Soma por ano e modalidade; TIC = área geral 06. Não deduplicamos por código de curso.",
+  "filtros": [
+    {
+      "ano": 2019,
+      "registros_brutos": 253139,
+      "apos_graduacao": 253089,
+      "excluidos_sequenciais": 50,
+      "excluidos_dimensao_3": 4529,
+      "excluidos_dimensao_4": 233,
+      "apos_dimensao": 248327,
+      "registros_tic": 16916,
+      "area_ausente_ou_invalida": 0
+    },
+    {
+      "ano": 2020,
+      "registros_brutos": 344691,
+      "apos_graduacao": 344665,
+      "excluidos_sequenciais": 26,
+      "excluidos_dimensao_3": 6117,
+      "excluidos_dimensao_4": 222,
+      "apos_dimensao": 338326,
+      "registros_tic": 25976,
+      "area_ausente_ou_invalida": 0
+    },
+    {
+      "ano": 2021,
+      "registros_brutos": 444786,
+      "apos_graduacao": 444769,
+      "excluidos_sequenciais": 17,
+      "excluidos_dimensao_3": 7624,
+      "excluidos_dimensao_4": 324,
+      "apos_dimensao": 436821,
+      "registros_tic": 38349,
+      "area_ausente_ou_invalida": 0
+    },
+    {
+      "ano": 2022,
+      "registros_brutos": 573019,
+      "apos_graduacao": 573010,
+      "excluidos_sequenciais": 9,
+      "excluidos_dimensao_3": 9207,
+      "excluidos_dimensao_4": 395,
+      "apos_dimensao": 563408,
+      "registros_tic": 54004,
+      "area_ausente_ou_invalida": 0
+    },
+    {
+      "ano": 2023,
+      "registros_brutos": 671610,
+      "apos_graduacao": 671605,
+      "excluidos_sequenciais": 5,
+      "excluidos_dimensao_3": 10576,
+      "excluidos_dimensao_4": 459,
+      "apos_dimensao": 660570,
+      "registros_tic": 66139,
+      "area_ausente_ou_invalida": 0
+    },
+    {
+      "ano": 2024,
+      "registros_brutos": 720349,
+      "apos_graduacao": 720345,
+      "excluidos_sequenciais": 4,
+      "excluidos_dimensao_3": 11319,
+      "excluidos_dimensao_4": 450,
+      "apos_dimensao": 708576,
+      "registros_tic": 71842,
+      "area_ausente_ou_invalida": 0
+    }
+  ],
+  "validacao_externa": "pendente",
+  "encoding": "latin-1"
+}
